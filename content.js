@@ -1,1 +1,1 @@
-console.log("nyawy")
+console.log("whtjr")
