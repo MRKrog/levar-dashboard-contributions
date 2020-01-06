@@ -1,1 +1,1 @@
-console.log("manqb")
+console.log("ecokr")
